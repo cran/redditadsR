@@ -1,0 +1,15 @@
+eb878b0ef33c93f97e963aadb07c00f5 *DESCRIPTION
+413171edfd05c63fe542d7f011d7d4f6 *NAMESPACE
+fc9742a8ad2dbf73ea108fdac64135ef *NEWS.md
+1954ffb9ef9f4205702cfff7981acc87 *R/fetch_redditads.R
+f05230155c50bd3606017b09813aae83 *R/my_redditads_data.R
+47fef2fd692610978dc123266c98c0e3 *README.md
+77001896a77d1cb481ff42b2a5411b1a *build/vignette.rds
+a2772d0be8456643d9b298f20c5b638d *data/my_redditads_data.RData
+eb2343b2b57ba35d217121616cdab04e *inst/doc/tutorial.R
+adcd4ad767385f7253cb9a411ef6440f *inst/doc/tutorial.Rmd
+a135a1db5342e5847a787f46e636d2ad *inst/doc/tutorial.html
+0bde6bf0a003e86954ca52ab66275f76 *man/fetch_redditads.Rd
+611548a4c6b3159ee81d941db8bb880b *man/my_redditads_data.Rd
+a2772d0be8456643d9b298f20c5b638d *vignettes/my_redditads_data.RData
+adcd4ad767385f7253cb9a411ef6440f *vignettes/tutorial.Rmd
